@@ -67,9 +67,9 @@ Aspiring Software Engineer | MERN Stack Developer | Full-Stack Web Developer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshPatel47&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnshPatel47&show_icons=true&theme=tokyonight" height="180em"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel47&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel47&layout=compact&theme=tokyonight" height="180em"/>
 
 </p>
 
