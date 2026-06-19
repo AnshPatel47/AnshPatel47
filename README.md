@@ -81,14 +81,6 @@ Aspiring Software Engineer | MERN Stack Developer | Full-Stack Web Developer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnshPatel47&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 # 📈 Contribution Graph
 
 [![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel47&theme=tokyo-night)](https://github.com/AnshPatel47)
